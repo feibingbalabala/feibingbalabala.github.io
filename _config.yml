@@ -1,6 +1,6 @@
 # Site
 title:              蒋文勇
-bio:                'balabala'
+bio:                '一个不自信的前端笔记和随想。'
 description:        "一个不自信的前端笔记和随想。"
 reading_time:       true
 words_per_minute:   200
@@ -40,7 +40,7 @@ disqus_shortname:   taylantatli
 email:              839319729@qq.com
 # twitter:            username
 # facebook:           username
-# github-url:         username
+github-url:         https://github.com/feibingbalabala
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
@@ -50,7 +50,7 @@ email:              839319729@qq.com
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+# steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
